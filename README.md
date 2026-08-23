@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hey, I'm Rudransh
 
-<!--
-**rudranshupreti/rudranshupreti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building things with code, AI & curiosity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ What I Do
+
+- 🤖 AI & Machine Learning
+- 🌐 Web Development
+- 🚀 Building startup ideas
+- 🧩 Automation & Developer Tools
+
+---
+
+## 🛠️ Tech Stack
+
+`Python` `JavaScript` `React` `FastAPI`
+
+`PostgreSQL` `Docker` `Git` `Linux`
+
+---
+
+## 🚀 Currently Building
+
+### 🌱 Swasti Bharat
+
+A platform for discovering yoga instructors, classes and wellness experiences.
+
+### 🧠 AI Projects
+
+Experimenting with LLMs, AI agents, automation and local AI.
+
+---
+
+## 🌱 Currently Learning
+
+**AI/ML** • **DSA** • **Backend Development** • **System Design**
+
+---
+
+## 📌 Featured Projects
+
+Coming soon...
+
+---
+
+## ⚡ Build Philosophy
+
+```text
+BUILD → BREAK → LEARN → BUILD AGAIN
