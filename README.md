@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E15A0A&height=200&section=header&text=RUDRANSH%20UPRETI&fontSize=50&fontColor=FAF0E5&animation=fadeIn&fontAlignY=38&desc=CODE.%20BUILD.%20AUTOMATE.&descAlignY=58&descSize=18" width="100%" alt="Animated waving header banner" />
-
-<br />
+# RUDRANSH UPRETI
 
 <a href="https://github.com/rudranshupreti">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=E15A0A&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%7C+Full-Stack+Builder;Turning+Ideas+Into+Working+Software;Currently+Building+Swasti+Bharat;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=E15A0A&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%7C+Full-Stack+Builder;Turning+Ideas+Into+Working+Software;Building+in+Public%2C+One+Repo+at+a+Time;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
 </a>
 
 <br />
@@ -13,12 +11,16 @@
 <img src="https://komarev.com/ghpvc/?username=rudranshupreti&label=Profile%20Views&color=E15A0A&style=flat" alt="Profile views" />
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-1A1A1A?style=flat&labelColor=1A1A1A&color=E15A0A" alt="Open to collaborate" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/rudranshupreti?label=Followers&style=flat&color=E15A0A&labelColor=1A1A1A" alt="Followers" />
 
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation" />
 
 Building products, experimenting with AI, and turning ideas into working software.
 
@@ -32,10 +34,15 @@ I spend my time around **AI/ML**, **web development**, **automation**, and **pro
 
 <table width="100%">
 <tr>
-<td width="100%">
+<td width="70%" valign="top">
 
 **AI Experiments**
 LLM experiments, AI agents, automation workflows, local AI setups, and RAG / vector-database pipelines — a running lab of small builds.
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="140" alt="AI/robot animation" />
 
 </td>
 </tr>
@@ -47,36 +54,15 @@ LLM experiments, AI agents, automation workflows, local AI setups, and RAG / vec
 
 <div align="center">
 
-**Languages**
-<br />
-<img src="https://skillicons.dev/icons?i=python,javascript&theme=light" alt="Python, JavaScript" />
+<img src="https://skillicons.dev/icons?i=python,javascript,react,vite,tailwind,fastapi,postgres,git,github,docker,linux&theme=light" alt="Languages, frontend, backend, and tools" />
 
 <br /><br />
 
-**Frontend**
-<br />
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light" alt="React, Vite, Tailwind CSS" />
-
-<br /><br />
-
-**Backend**
-<br />
-<img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=light" alt="FastAPI, PostgreSQL" />
-
-<br /><br />
-
-**AI / Data**
-<br />
 <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logoColor=E15A0A" alt="LangChain" />
 <img src="https://img.shields.io/badge/RAG-1A1A1A?style=for-the-badge&logoColor=E15A0A" alt="RAG" />
 <img src="https://img.shields.io/badge/Vector_DB-1A1A1A?style=for-the-badge&logoColor=E15A0A" alt="Vector Databases" />
 <img src="https://img.shields.io/badge/Power_BI-1A1A1A?style=for-the-badge&logoColor=E15A0A" alt="Power BI" />
-
-<br /><br />
-
-**Tools**
-<br />
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=light" alt="Git, GitHub, Docker, Linux" />
+<img src="https://img.shields.io/badge/SQL-1A1A1A?style=for-the-badge&logoColor=E15A0A" alt="SQL" />
 
 </div>
 
@@ -151,6 +137,10 @@ One-line description of what this project does.
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/xUOxfhAOD2HxvJ2sSk/giphy.gif" width="220" alt="Learning animation" />
+
+<br /><br />
+
 `AI/ML` &nbsp;·&nbsp; `DSA` &nbsp;·&nbsp; `Backend Architecture` &nbsp;·&nbsp; `System Design` &nbsp;·&nbsp; `AI Agents` &nbsp;·&nbsp; `Product Building`
 
 </div>
@@ -162,6 +152,8 @@ One-line description of what this project does.
 <div align="center">
 
 ### `BUILD` → `BREAK` → `LEARN` → `BUILD AGAIN`
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Build loop animation" />
 
 </div>
 
