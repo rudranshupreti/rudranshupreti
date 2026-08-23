@@ -6,6 +6,16 @@
 
 # RUDRANSH UPRETI
 
+<a href="https://github.com/rudranshupreti">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=E15A0A&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%7C+Full-Stack+Builder;Turning+Ideas+Into+Working+Software;Currently+Building+Swasti+Bharat;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
+</a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=rudranshupreti&label=Profile%20Views&color=E15A0A&style=flat" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-1A1A1A?style=flat&labelColor=1A1A1A&color=E15A0A" alt="Open to collaborate" />
+
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -29,7 +39,7 @@ I spend my time around **AI/ML**, **web development**, **automation**, and **pro
 **Swasti Bharat**
 A yoga and wellness platform — helping people discover yoga instructors, classes, and wellness experiences that actually fit them.
 
-`Live` → [YOUR_LINK_HERE](YOUR_LINK_HERE) &nbsp;&nbsp;·&nbsp;&nbsp; `Repo` → [YOUR_LINK_HERE](YOUR_LINK_HERE)
+`Live` → [YOUR_LIVE_LINK_HERE](YOUR_LIVE_LINK_HERE) &nbsp;&nbsp;·&nbsp;&nbsp; `Repo` → [YOUR_REPO_LINK_HERE](YOUR_REPO_LINK_HERE)
 
 </td>
 </tr>
@@ -52,7 +62,6 @@ LLM experiments, AI agents, automation workflows, local AI setups, and RAG / vec
 **Languages**
 <br />
 <img src="https://skillicons.dev/icons?i=python,javascript&theme=light" alt="Python, JavaScript" />
-&nbsp;&nbsp;`SQL`
 
 <br /><br />
 
@@ -68,9 +77,12 @@ LLM experiments, AI agents, automation workflows, local AI setups, and RAG / vec
 
 <br /><br />
 
-**AI**
+**AI / Data**
 <br />
-`LangChain` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `RAG` &nbsp;·&nbsp; `Vector Databases`
+<img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logoColor=E15A0A" alt="LangChain" />
+<img src="https://img.shields.io/badge/RAG-1A1A1A?style=for-the-badge&logoColor=E15A0A" alt="RAG" />
+<img src="https://img.shields.io/badge/Vector_DB-1A1A1A?style=for-the-badge&logoColor=E15A0A" alt="Vector Databases" />
+<img src="https://img.shields.io/badge/Power_BI-1A1A1A?style=for-the-badge&logoColor=E15A0A" alt="Power BI" />
 
 <br /><br />
 
@@ -93,34 +105,12 @@ Yoga & wellness discovery platform connecting users with instructors and classes
 
 **Stack:** `React` `FastAPI` `PostgreSQL`
 
-[`Repository`](YOUR_LINK_HERE) &nbsp;|&nbsp; [`Live Demo`](YOUR_LINK_HERE)
+[`Repository`](YOUR_REPO_LINK_HERE) &nbsp;|&nbsp; [`Live Demo`](YOUR_LIVE_LINK_HERE)
 
 </td>
 <td width="50%" valign="top">
 
-### YOUR_PROJECT_NAME
-One-line description of what this project does.
-
-**Stack:** `YOUR_TECH_STACK`
-
-[`Repository`](YOUR_LINK_HERE) &nbsp;|&nbsp; [`Live Demo`](YOUR_LINK_HERE)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### YOUR_PROJECT_NAME
-One-line description of what this project does.
-
-**Stack:** `YOUR_TECH_STACK`
-
-[`Repository`](YOUR_LINK_HERE) &nbsp;|&nbsp; [`Live Demo`](YOUR_LINK_HERE)
-
-</td>
-<td width="50%" valign="top">
-
-### YOUR_PROJECT_NAME
+### Add Your Next Project
 One-line description of what this project does.
 
 **Stack:** `YOUR_TECH_STACK`
@@ -131,18 +121,39 @@ One-line description of what this project does.
 </tr>
 </table>
 
+<sub>*Tip: keep only real, working projects here — an empty placeholder card hurts more than it helps. Add cards back in as you ship.*</sub>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&hide_title=true&bg_color=FAF0E5&title_color=E15A0A&text_color=1A1A1A&icon_color=E15A0A" alt="Rudransh's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&hide_title=true&bg_color=FAF0E5&title_color=E15A0A&text_color=1A1A1A" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rudranshupreti&show_icons=true&hide_border=true&hide_title=true&bg_color=FAF0E5&title_color=E15A0A&text_color=1A1A1A&icon_color=E15A0A" alt="Rudransh's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudranshupreti&layout=compact&hide_border=true&hide_title=true&bg_color=FAF0E5&title_color=E15A0A&text_color=1A1A1A" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=FAF0E5&ring=E15A0A&fire=E15A0A&currStreakLabel=1A1A1A&sideLabels=1A1A1A&currStreakNum=1A1A1A&sideNums=1A1A1A&dates=1A1A1A" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com/?user=rudranshupreti&hide_border=true&background=FAF0E5&ring=E15A0A&fire=E15A0A&currStreakLabel=1A1A1A&sideLabels=1A1A1A&currStreakNum=1A1A1A&sideNums=1A1A1A&dates=1A1A1A" alt="GitHub streak stats" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=rudranshupreti&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8&title=Commits,Stars,PullRequest,Repositories&bg-color=FAF0E5&title-color=E15A0A&text-color=1A1A1A" alt="GitHub trophies" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudranshupreti/rudranshupreti/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rudranshupreti/rudranshupreti/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — needs a one-time GitHub Actions workflow set up in this repo to generate the SVG.</sub>
 
 </div>
 
@@ -175,7 +186,7 @@ One-line description of what this project does.
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-1A1A1A?style=for-the-badge&logo=firefox&logoColor=E15A0A)](YOUR_LINK_HERE)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=E15A0A)](YOUR_LINK_HERE)
 [![X](https://img.shields.io/badge/X_/_TWITTER-1A1A1A?style=for-the-badge&logo=x&logoColor=E15A0A)](YOUR_LINK_HERE)
-[![GitHub](https://img.shields.io/badge/GITHUB-1A1A1A?style=for-the-badge&logo=github&logoColor=E15A0A)](YOUR_LINK_HERE)
+[![GitHub](https://img.shields.io/badge/GITHUB-1A1A1A?style=for-the-badge&logo=github&logoColor=E15A0A)](https://github.com/rudranshupreti)
 
 </div>
 
