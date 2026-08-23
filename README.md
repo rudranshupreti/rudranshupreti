@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="banner.gif" width="100%" alt="Animated banner of a pixel-art robot with blinking eyes and a pulsing antenna light, next to the text CODE. BUILD. AUTOMATE. and tags AI, Python, Data" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E15A0A&height=200&section=header&text=RUDRANSH%20UPRETI&fontSize=50&fontColor=FAF0E5&animation=fadeIn&fontAlignY=38&desc=CODE.%20BUILD.%20AUTOMATE.&descAlignY=58&descSize=18" width="100%" alt="Animated waving header banner" />
 
 <br />
-
-# RUDRANSH UPRETI
 
 <a href="https://github.com/rudranshupreti">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=E15A0A&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%7C+Full-Stack+Builder;Turning+Ideas+Into+Working+Software;Currently+Building+Swasti+Bharat;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
@@ -33,16 +31,6 @@ I spend my time around **AI/ML**, **web development**, **automation**, and **pro
 ## Currently Building
 
 <table width="100%">
-<tr>
-<td width="100%">
-
-**Swasti Bharat**
-A yoga and wellness platform — helping people discover yoga instructors, classes, and wellness experiences that actually fit them.
-
-`Live` → [YOUR_LIVE_LINK_HERE](YOUR_LIVE_LINK_HERE) &nbsp;&nbsp;·&nbsp;&nbsp; `Repo` → [YOUR_REPO_LINK_HERE](YOUR_REPO_LINK_HERE)
-
-</td>
-</tr>
 <tr>
 <td width="100%">
 
@@ -100,12 +88,12 @@ LLM experiments, AI agents, automation workflows, local AI setups, and RAG / vec
 <tr>
 <td width="50%" valign="top">
 
-### Swasti Bharat
-Yoga & wellness discovery platform connecting users with instructors and classes.
+### Add Your Next Project
+One-line description of what this project does.
 
-**Stack:** `React` `FastAPI` `PostgreSQL`
+**Stack:** `YOUR_TECH_STACK`
 
-[`Repository`](YOUR_REPO_LINK_HERE) &nbsp;|&nbsp; [`Live Demo`](YOUR_LIVE_LINK_HERE)
+[`Repository`](YOUR_LINK_HERE) &nbsp;|&nbsp; [`Live Demo`](YOUR_LINK_HERE)
 
 </td>
 <td width="50%" valign="top">
@@ -121,7 +109,7 @@ One-line description of what this project does.
 </tr>
 </table>
 
-<sub>*Tip: keep only real, working projects here — an empty placeholder card hurts more than it helps. Add cards back in as you ship.*</sub>
+<sub>*Tip: swap these in as you ship real projects — an empty placeholder card hurts more than it helps.*</sub>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -193,7 +181,9 @@ One-line description of what this project does.
 <br />
 
 <div align="center">
-<img src="./assets/divider.svg" width="100%" alt="" />
 
 <sub>Made with curiosity, code, and a lot of debugging.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E15A0A&height=120&section=footer" width="100%" alt="Animated waving footer banner" />
+
 </div>
