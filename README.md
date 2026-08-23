@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Banner illustration of a minimal line-art robot with the text CODE. BUILD. AUTOMATE. and tags AI, Python, Data" />
+<img src="banner.png" width="100%" alt="Banner illustration of a minimal line-art robot with the text CODE. BUILD. AUTOMATE. and tags AI, Python, Data" />
 
 <br />
 
