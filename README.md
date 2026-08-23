@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="Animated banner of a pixel-art robot with blinking eyes and a pulsing antenna light, next to the text CODE. BUILD. AUTOMATE. and tags AI, Python, Data" />
+<img src="banner.gif" width="100%" alt="Animated banner of a pixel-art robot with blinking eyes and a pulsing antenna light, next to the text CODE. BUILD. AUTOMATE. and tags AI, Python, Data" />
 
 <br />
 
