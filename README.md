@@ -46,9 +46,11 @@ I am driven by curiosity and a problem-solving mindset, and I focus on deliverin
 <img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
 <br><br>
 
-  src="https://raw.githubusercontent.com/rudranshupreti/rudranshupreti/output/github-snake.svg"
+<img
+    src="https://raw.githubusercontent.com/rudranshupreti/rudranshupreti/output/github-snake.svg"
     alt="GitHub Snake"
     width="100%"
+  />
     
 <br><br>
 <img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
