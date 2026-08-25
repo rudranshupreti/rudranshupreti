@@ -20,7 +20,8 @@ I am driven by curiosity and a problem-solving mindset, and I focus on deliverin
 - 🎯 Exploring: ML fundamentals &amp; NLP
 - 🚀 Mission: Build systems that save time, cut costs, and drive growth
 <div align="center">
-<br>
+<br><br>
+
 <img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
 <br>
 
