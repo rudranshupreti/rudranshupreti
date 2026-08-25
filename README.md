@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./banner.png" width="100%" alt="Code. Build. Automate." />
+<img src="./banner.gif" width="100%" alt="Code. Build. Automate." />
 <br>
 <h1>RUDRANSH</h1>
 <b>AI / ML enthusiast &nbsp;▪&nbsp; Data Analytics &nbsp;▪&nbsp; turning ideas into working systems</b>
@@ -25,16 +25,6 @@ I am driven by curiosity and a problem-solving mindset, and I focus on deliverin
 <img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
 <br><br>
 </div>
-
-**Developer** · Swasti Bharat · *Mar 2024 – Nov 2024*
-Contributed to web development and digital growth initiatives, building web scraping workflows and data filtering, manipulation, and lead-generation systems to support business operations. Managed client acquisition and closing processes while exploring and implementing AI tools to improve research, automation, and day-to-day workflows.
-
-**Intern** · Law Wheels · *Nov 2024 – Apr 2025*
-Worked with a legal-tech startup delivering technology-driven solutions for legal matters. Contributed to product ideation and planning, web development, client acquisition, and lead generation, alongside SEO, digital marketing, web scraping, and data filtering/manipulation to support research and business operations.
-
-**Sales and Marketing Specialist** · AFFILIATE INDIANS · *Oct 2023 – Mar 2024*
-Drove sales and customer acquisition, generating ₹20L+ in revenue through WhatsApp marketing and cold calling. Managed lead generation, prospect communication, and follow-ups, converting prospects into customers while developing strong sales, marketing, and relationship-management skills.
-
 <div align="center">
 <br>
 <img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
