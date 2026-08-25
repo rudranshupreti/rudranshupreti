@@ -1,111 +1,72 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=%24+whoami;rudransh+%E2%80%94+AI%2FML+enthusiast+%26+dev;%24+cat+status.txt;building+%2C+learning+%2C+shipping" alt="terminal typing" />
-
-</div>
-
-```bash
-$ cat about.md
-```
-
-> AI/ML enthusiast and developer who loves building projects,
-> exploring new technologies, and turning ideas into reality 🚀
-
-<br>
-
-```bash
-$ ls ~/socials/
-```
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=39FF14)](https://discord.gg/RudranshUpreti)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/RudranshUpreti)
-[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/RudranshUpreti)
-[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=39FF14)](https://medium.com/@RudranshUpreti)
-[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:rudranshupreti7@gmail.com)
-
-</div>
-
-<br>
-
-```bash
-$ cat stack.json
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,rust,cpp,go,js,ts,react,next,nodejs,fastapi,mysql,postgres,redis,docker,aws,git&theme=dark&perline=8" />
-
-</div>
-
-<br>
-
-```bash
-$ git log --stat --author=rudransh
-```
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=RudranshUpreti&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RudranshUpreti&theme=chartreuse-dark&hide_border=true&layout=compact" />
-
-<img src="https://streak-stats.demolab.com/?user=RudranshUpreti&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
-
-</div>
-
-<br>
-
-```bash
-$ ./run contribution-snake.sh
-```
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RudranshUpreti/RudranshUpreti/output/github-contribution-grid-snake-dark.svg" width="850" alt="snake animation" />
-
-</div>
-
-<br>
-
-```bash
-$ cat trophies.log
-```
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RudranshUpreti&theme=chartreuse-dark&no-frame=true&no-bg=true&row=1&margin-w=8" />
-
-</div>
-
-<br>
-
-```bash
-$ fortune | cowsay -f dragon
-```
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-<sub>$ echo "top contributed repo"</sub>
-<br><br>
-<img src="https://github-contributor-stats.vercel.app/api?username=RudranshUpreti&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" />
+<img src="./banner.png" width="100%" alt="Code. Build. Automate." />
 
 <br><br>
 
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=RudranshUpreti&icon=0&color=39FF14&style=for-the-badge" /></a>
+<h2>Hi, I'm Rudransh &nbsp;&gt;&gt;&gt;</h2>
+
+<b>AI / ML enthusiast &nbsp;&middot;&nbsp; Data Analytics &nbsp;&middot;&nbsp; turning ideas into working systems</b>
+
+</div>
+
+<br>
+
+## &gt;&gt; What I'm doing
+
+- Building a foundation in **Data Analytics, SQL & Power BI** while pushing deeper into **AI/ML**
+- Shipping small tools and automations that solve real, specific problems
+- Long-term goal: freelancing → my own product, one step at a time
+
+<br>
+
+## &gt;&gt; Stack
+
+<div align="center">
+
+`AI` &nbsp;•&nbsp; `PYTHON` &nbsp;•&nbsp; `DATA` &nbsp;•&nbsp; `SQL` &nbsp;•&nbsp; `REACT` &nbsp;•&nbsp; `NODE`
 
 <br><br>
 
-<sub>// exit 0</sub>
+<img src="https://skillicons.dev/icons?i=py,rust,cpp,go,js,ts,react,next,nodejs,fastapi,mysql,postgres,docker,aws,git&perline=8" />
 
+</div>
+
+<br>
+
+## &gt;&gt; Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.shion.dev/api?username=RudranshUpreti&hide_border=true&count_private=false&title_color=F97316&text_color=1a1a1a&icon_color=F97316&bg_color=00000000" />
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RudranshUpreti&hide_border=true&layout=compact&title_color=F97316&text_color=1a1a1a&bg_color=00000000" />
+
+</div>
+
+<br>
+
+## &gt;&gt; Currently building
+
+| Project | What it does |
+|---|---|
+| _add repo_ | _one-line description_ |
+| _add repo_ | _one-line description_ |
+| _add repo_ | _one-line description_ |
+
+<br>
+
+## &gt;&gt; Reach me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=F97316)](https://linkedin.com/in/RudranshUpreti)
+[![X](https://img.shields.io/badge/X-1a1a1a?style=flat-square&logo=x&logoColor=F97316)](https://x.com/RudranshUpreti)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=F97316)](mailto:rudranshupreti7@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>code. build. automate.</sub>
 </div>
