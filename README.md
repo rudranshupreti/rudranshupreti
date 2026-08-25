@@ -2,17 +2,25 @@
 
 <img src="./banner.png" width="100%" alt="Code. Build. Automate." />
 
+<br>
+
+<h1>RUDRANSH</h1>
+
+<b>AI / ML enthusiast &nbsp;▪&nbsp; Data Analytics &nbsp;▪&nbsp; turning ideas into working systems</b>
+
 <br><br>
 
-<h2>Hi, I'm Rudransh &nbsp;&gt;&gt;&gt;</h2>
+<img src="https://img.shields.io/badge/AI-1a1a1a?style=for-the-badge&logoColor=F97316" height="26"/> <img src="https://img.shields.io/badge/PYTHON-F97316?style=for-the-badge&logoColor=1a1a1a" height="26"/> <img src="https://img.shields.io/badge/DATA-1a1a1a?style=for-the-badge&logoColor=F97316" height="26"/>
 
-<b>AI / ML enthusiast &nbsp;&middot;&nbsp; Data Analytics &nbsp;&middot;&nbsp; turning ideas into working systems</b>
+<br><br>
+
+<img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
 
 </div>
 
 <br>
 
-## &gt;&gt; What I'm doing
+## <span style="color:#F97316">▪</span> What I'm doing
 
 - Building a foundation in **Data Analytics, SQL & Power BI** while pushing deeper into **AI/ML**
 - Shipping small tools and automations that solve real, specific problems
@@ -20,11 +28,11 @@
 
 <br>
 
-## &gt;&gt; Stack
+## <span style="color:#F97316">▪</span> Stack
 
 <div align="center">
 
-`AI` &nbsp;•&nbsp; `PYTHON` &nbsp;•&nbsp; `DATA` &nbsp;•&nbsp; `SQL` &nbsp;•&nbsp; `REACT` &nbsp;•&nbsp; `NODE`
+<sub>`AI` &nbsp;▪&nbsp; `PYTHON` &nbsp;▪&nbsp; `DATA` &nbsp;▪&nbsp; `SQL` &nbsp;▪&nbsp; `REACT` &nbsp;▪&nbsp; `NODE`</sub>
 
 <br><br>
 
@@ -34,18 +42,28 @@
 
 <br>
 
-## &gt;&gt; Stats
+## <span style="color:#F97316">▪</span> Stats
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.shion.dev/api?username=RudranshUpreti&hide_border=true&count_private=false&title_color=F97316&text_color=1a1a1a&icon_color=F97316&bg_color=00000000" />
 <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RudranshUpreti&hide_border=true&layout=compact&title_color=F97316&text_color=1a1a1a&bg_color=00000000" />
 
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=RudranshUpreti&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&stroke=1a1a1a&sideLabels=1a1a1a&currStreakNum=1a1a1a&sideNums=1a1a1a&dates=1a1a1a" />
+
 </div>
 
 <br>
 
-## &gt;&gt; Currently building
+<div align="center">
+<img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
+</div>
+
+<br>
+
+## <span style="color:#F97316">▪</span> Currently building
 
 | Project | What it does |
 |---|---|
@@ -55,18 +73,20 @@
 
 <br>
 
-## &gt;&gt; Reach me
+## <span style="color:#F97316">▪</span> Reach me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=F97316)](https://linkedin.com/in/RudranshUpreti)
-[![X](https://img.shields.io/badge/X-1a1a1a?style=flat-square&logo=x&logoColor=F97316)](https://x.com/RudranshUpreti)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=F97316)](mailto:rudranshupreti7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=F97316)](https://linkedin.com/in/RudranshUpreti)
+[![X](https://img.shields.io/badge/X-1a1a1a?style=for-the-badge&logo=x&logoColor=F97316)](https://x.com/RudranshUpreti)
+[![Email](https://img.shields.io/badge/EMAIL-1a1a1a?style=for-the-badge&logo=gmail&logoColor=F97316)](mailto:rudranshupreti7@gmail.com)
 
 </div>
 
 <br>
 
 <div align="center">
-<sub>code. build. automate.</sub>
+<img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
+<br><br>
+<sub><b>CODE.</b> <span style="color:#F97316"><b>BUILD.</b></span> <b>AUTOMATE.</b></sub>
 </div>
