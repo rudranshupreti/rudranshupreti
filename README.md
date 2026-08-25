@@ -25,6 +25,7 @@ I am driven by curiosity and a problem-solving mindset, and I focus on deliverin
 <img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
 <br>
 <br>
+
 [![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=F97316)](https://discord.gg/RudranshUpreti)
 [![Facebook](https://img.shields.io/badge/Facebook-1a1a1a?style=for-the-badge&logo=facebook&logoColor=F97316)](https://facebook.com/RudranshUpreti)
 [![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=F97316)](https://instagram.com/RudranshUpreti)
