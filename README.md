@@ -35,7 +35,7 @@ I am driven by curiosity and a problem-solving mindset, and I focus on deliverin
 [![X](https://img.shields.io/badge/X-1a1a1a?style=for-the-badge&logo=x&logoColor=F97316)](https://x.com/RudranshUpreti)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=F97316)](mailto:rudranshupreti7@gmail.com)
 
-<br><br>
+<br>
 <img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
 <br><br>
 
