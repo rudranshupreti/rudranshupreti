@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="banner.gif" alt = "banner"/>
 # RUDRANSH UPRETI
 
 <a href="https://github.com/rudranshupreti">
