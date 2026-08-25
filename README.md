@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./banner.png" width="100%" alt="Code. Build. Automate." />
+<img src="./banner.gif" width="100%" alt="Code. Build. Automate." />
 <br>
 <h1>RUDRANSH</h1>
 <b>AI / ML enthusiast &nbsp;▪&nbsp; Data Analytics &nbsp;▪&nbsp; turning ideas into working systems</b>
@@ -46,7 +46,7 @@ I am driven by curiosity and a problem-solving mindset, and I focus on deliverin
 <img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
 <br><br>
 
-<img src="https://raw.githubusercontent.com/RudranshUpreti/RudranshUpreti/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/rudranshupreti/rudranshupreti/output/github-snake.svg" />
 
 <br><br>
 <img width="100%" height="2" src="https://singlecolorimage.com/get/F97316/1000x2">
